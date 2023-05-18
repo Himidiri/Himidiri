@@ -9,7 +9,7 @@ I'm a second-year undergraduate pursuing a BSc (Hons) in Computer Science from I
 
 ### 📫 How to reach me ...
 
-- [LinkedIn](https://www.linkedin.com/in/himidiri/)
-- [Email](himidirihimakanika@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/himidiri/) - Connect with me on LinkedIn.
+- Email: himidirihimakanika@gmail.com - Feel free to reach out to me via email.
 
 Thanks for stopping by, and happy coding! 🚀
