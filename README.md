@@ -1,15 +1,17 @@
-## Hi there, I'm Himidiri Himakanika 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
-I'm a second-year undergraduate pursuing a BSc (Hons) in Computer Science from Informatics Institute of Technology (IIT), affiliated with the University of Westminster UK. I have a passion for software development and love exploring new technologies.
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=%23D62F79&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himidiri+Himakanika!;" /></h1>
+<br>
 
-### 🌱 I’m currently learning ...
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
+<br>
 
-- Data Structures and Algorithms
-- Web Development Frameworks
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Himidiri.Himidiri"/></p>    
+<br>
+<br>
 
-### 📫 How to reach me ...
+<div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himidiri&theme=radical&hide_border=false" alt="streak graph"/></div>
+<br>
 
-- [LinkedIn](https://www.linkedin.com/in/himidiri/) - Connect with me on LinkedIn.
-- Email: himidirihimakanika@gmail.com - Feel free to reach out to me via email.
-
-Thanks for stopping by, and happy coding! 🚀
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himidiri&locale=en&hide_title=false&layout=compact&card_width=35&langs_count=10&theme=radical&hide_border=false&order=2" width="320" alt="languages graph"/></div>
+<br>
