@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=%23D62F79&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himidiri+Himakanika!;" /></h1>
 <br>
 
-<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
+<h3 align="center"><i>A passionate Software Developer from Sri Lanka</i></h3>
 <br>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Himidiri.Himidiri"/></p>    
@@ -15,3 +15,15 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himidiri&locale=en&hide_title=false&layout=compact&card_width=35&langs_count=10&theme=radical&hide_border=false&order=2" width="320" alt="languages graph"/></div>
 <br>
+
+##
+
+<h2  align="center">📫 Reach me on 
+  <br>
+  <br>
+  <p align="center">
+    <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://himidiri.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</h2>
