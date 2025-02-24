@@ -6,7 +6,7 @@
 <h3 align="center"><i>A passionate Software Developer from Sri Lanka</i></h3>
 <br>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Himidiri.Himidiri"/></p>    
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Himidiri&label=Visitors&color=D62F79&style=for-the-badge" alt="Himidiri" /> </p>
 <br>
 <br>
 
