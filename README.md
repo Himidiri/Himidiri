@@ -22,8 +22,10 @@
   <br>
   <br>
   <p align="center">
-    <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:himidirihimakanika@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/himidiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://himidiri.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </h2>
+
+
