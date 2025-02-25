@@ -12,6 +12,12 @@
 
 <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himidiri&theme=radical&hide_border=false" alt="streak graph"/></div>
 <br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Himidiri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himidiri&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+</p>
+<br>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himidiri&locale=en&hide_title=false&layout=compact&card_width=35&langs_count=10&theme=radical&hide_border=false&order=2" width="320" alt="languages graph"/></div>
 <br>
