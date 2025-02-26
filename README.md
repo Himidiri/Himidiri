@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/Himidiri/github-readme-streak-stats">
-    <img title="Himidiri's streak stats" alt="Himidiri's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Himidiri&theme=radical&hide_border=false&short_numbers=true"/>
+    <img title="Himidiri's Streak Stats" alt="Himidiri's Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Himidiri&theme=radical&hide_border=false&short_numbers=true"/>
   </a>
 </p>
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Himidiri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himidiri&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Himidiri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Himidiri&show_icons=true&include_all_commits=false&count_private=true&theme=radical&hide_border=false" height="192px"/></a>
 </p>
 <br>
 
