@@ -10,8 +10,11 @@
 <br>
 <br>
 
-<div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himidiri&theme=radical&hide_border=false" alt="streak graph"/></div>
-<br>
+<p align="center">
+  <a href="https://github.com/Himidiri/github-readme-streak-stats">
+    <img title="Himidiri's streak stats" alt="Himidiri's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Himidiri&theme=radical&hide_border=false&short_numbers=true"/>
+  </a>
+</p>
 <br>
 
 <p align="center">
