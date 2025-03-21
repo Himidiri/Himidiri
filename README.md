@@ -6,7 +6,7 @@
 <h3 align="center"><i>A passionate Software Developer from Sri Lanka</i></h3>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Himidiri&label=Visitors&color=D62F79&style=for-the-badge" alt="Himidiri" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Himidiri&label=Visitors&color=D62F79&style=for-the-badge" alt="Himidiri" /> </p> -->
 <p align="center"> <img src="https://img.shields.io/badge/Visitors-4D4D4D?style=for-the-badge" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@Himidiri.github.readme"/></p>
 <br>
