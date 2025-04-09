@@ -38,4 +38,4 @@
     <a href="https://himidiri.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </h2>
-<h3 align="center"><i>Thanks for stopping, & happy coding! 🚀</i></h3>
+<h3 align="center"><i>Thanks for stopping, and happy coding! 🚀</i></h3>
