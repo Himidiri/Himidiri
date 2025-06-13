@@ -38,4 +38,11 @@
     <a href="https://himidiri.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/himidirihiw" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
+
 <h3 align="center"><i>Thanks for stopping, and happy coding! 🚀</i></h3>
